@@ -1,0 +1,7 @@
+macskaféle;sebesség(km/h);tömeg(kg)
+gepárd;130;72
+párduc;58;91
+jaguár;80;96
+puma;50;120
+tigris;65;210
+oroszlán;70;190

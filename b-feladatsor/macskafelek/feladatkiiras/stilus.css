@@ -1,0 +1,50 @@
+body {
+}
+
+.col--4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgreen;
+  margin: 10px 0px;
+  border-radius: 5px;
+}
+
+.col--7 {
+  background-color: lightsalmon;
+  margin: 10px 0px;
+  border-radius: 5px;
+}
+
+.col--12 {
+  background-color: dodgerblue;
+  margin: 10px 0px;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  margin: 10px 0px;
+}
+
+.fajta {
+}
+
+.fajtaNev {
+}
+
+.leiras {
+}
+
+#felfele {
+}
+
+button {
+}
+
+#info {
+}

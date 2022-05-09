@@ -1,0 +1,5 @@
+60 km/h-nál gyorsabb macskafélék sebességgel:
+gepárd, 130 km/h
+jaguár, 80 km/h
+tigris, 65 km/h
+oroszlán, 70 km/h

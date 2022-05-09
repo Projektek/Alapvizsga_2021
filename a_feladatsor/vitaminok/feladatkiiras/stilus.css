@@ -1,0 +1,25 @@
+body {
+  padding-bottom: 2em;
+}
+
+.col--12 {
+  border-bottom: 5px solid black;
+}
+
+.col--5 {
+  border-top: 1px solid black;
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#felfele {
+}
+
+button {
+}
+
+#info {
+}

@@ -1,0 +1,9 @@
+Vitamin;nők minimum(milligramm);férfi minimum(milligramm)
+A-vitamin;0.8;1
+B1-vitamin;1.1;1.2
+B2-vitamin;1.2;1.3
+B12-vitamin;0.003;0.003
+C-vitamin;100;100
+D-vitamin;0.005;0.005
+E-vitamin;12;14
+K-vitamin;0.065;0.07
